@@ -4,3 +4,5 @@ implementacion de los cursos de alura
 
 para eljecutar el sistema, debes poner :
 ""npm instal react""
+
+sistema de reguistro 2
